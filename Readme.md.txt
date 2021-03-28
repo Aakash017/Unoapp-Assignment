@@ -9,8 +9,8 @@
 4. Write: git clone https://github.com/Aakash017/Unoapp-Assignment.git
 5. cd Unoapp
 6. Write: python manage.py runserver
-7. Superuser for this assignment is (username =îrootî, password=îroot0713î)
-8. Sign in  Postman with (Email =îaaka1702@gmail.comî,Password:îaaka1702@gmail.comî)
+7. Superuser for this assignment is (username =‚Äùroot‚Äù, password=‚Äùroot0713‚Äù)
+
 9. To register enter (email,password,first_name,last_name)
 10. Than a verification email will be sent to user gmail. (Important Note:- Kindly sign in to the email on the same pc where (localhost) server is running)
 11. Than click on the link in the email and your account will be verified
